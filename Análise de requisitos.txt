@@ -1,0 +1,41 @@
+Análise de requisitos - Projeto Amora Petshop - Estácio
+
+- Cadastro de Clientes:
+Nome do cliente.
+Endereço.
+Número de telefone.
+E-mail (opcional).
+
+- Cadastro de Animais:
+Nome do animal.
+Espécie (cão, gato, pássaro, etc.).
+Raça
+Data de nascimento (ou idade estimada).
+Observação de saúde (vacinações, alergias, etc.).
+
+- Agendamento de Serviços:
+Agendamento de banhos e tosas.
+Escolha do profissional responsável (veterinário ou tosador).
+Data e hora do serviço.
+
+- Controle de Estoque:
+Registro de produtos disponíveis para venda (rações, brinquedos, produtos de higiene, etc.).
+Quantidade em estoque.
+Preços de venda.
+
+- Registro de Vendas:
+Seleção de produtos e serviços.
+Cálculo do total da compra.
+
+- Controle de Funcionários:
+Cadastro de funcionários.
+Tipo de atendimento do funcionário para vincular ao tipo de serviço atribuido
+
+- Controle Financeiro:
+Geração de relatórios de vendas, serviços, estoque, etc em XLSX.
+
+- Segurança:
+Autenticação de usuários para logar no sistema.
+
+- Interface Gráfica:
+Desenvolvimento de uma interface amigável para facilitar o uso do sistema.
